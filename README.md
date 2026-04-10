@@ -1,54 +1,29 @@
 # AI-901
 Useful Concepts explanations, analogies and resources around the Microsoft AI-901 Certification Course and Exam
 
+# Background on the evolution of AI Certifications with Microsoft:
+- [Future-proof your skills: Microsoft’s new cloud, AI, and security Certifications.](https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128)
 
-# DP-602
-
-# Implement a data warehouse in Microsoft Fabric
 
 
 ## About
 
-The page is meant to help support your learning journey with all things data warehouses in Microsoft Fabric and specifically, aligned with the Microsoft Applied Skill, DP-602.
+The page is meant to help support your learning journey with all things Azure AI Fundamentals, and aligned to the AI-901 Certification exam and course.
 
 Don't forget to star (🌟) this repo to find it easier later.
 
-## Content
-
-[Link to Mindmap](https://raw.githubusercontent.com/ForTheLoveOfLearning/DP-602/refs/heads/main/DP-602_Mindmap.svg)
-<img src="https://fortheloveoflearning.github.io/DP-602/DP-602_Mindmap.svg">
+## Content:
 
 
-  
-## Learning Excellence Resources📒
-- [Full Course Mindmaps](https://azurebrainwave.github.io)
+### AI-901 Self-paced Learning Path on Microsoft Learn:
+- [Introduction to AI in Azure](https://learn.microsoft.com/en-us/training/courses/ai-901t00)
 
-## Extra Resources
+## Other AI Content
+### Intro to Microsoft Foundry
+- Coming soon
 
-### 1. Explore Microsoft Fabric
+### Intro to MCP Server
+- Coming soon
 
-### 2. Get Started with data warehouse in Microsoft Fabric
-
-### 3. Load data into a Microsoft Fabric data warehouse
-
-### 4. Query a data warehouse in Microsoft Fabric
-
-### 5. Monitor a Microsoft Fabric data warehouse
-
-### 6. Secure a Microsoft Fabric data warehouse
-
-
-### DP-602 Applied Skill Resources
-- [DP-602 Applied Skill Content](https://aka.ms/DP-602)
-
-## Other Fabric Content
-### Intro to Microsoft Fabric
-- [Microsoft Fabric Product Page](https://www.microsoft.com/en-us/microsoft-fabric?msockid=186ce81abd2b6726173bfcc9bc29666a)
-- [DP-600 Microsoft Fabric Analytics Engineer Associate Course](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
-
-### Lakehouses in Microsoft Fabric
-- [Implement a lakehouse in Microsoft Fabric](https://aka.ms/DP-601)
-
-### Data Science in Microsoft Fabric
-- [Data Science Overview in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/data-science-overview)
-- [DP-604 Implement a data science and machine learning solution for AI in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/implement-data-science-machine-learning-fabric/)
+### Microsoft Certifications
+- [Certification Poster](https://aka.ms/CertPoster)
